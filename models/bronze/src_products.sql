@@ -1,0 +1,1 @@
+SELECT *FROM RETAIL_DB.RAW.products
